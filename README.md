@@ -2,7 +2,7 @@
 
 This repository contains all of the data files and code needed to reproduce the analyses published in the paper <br>
 __A physical wiring diagram of the human immune system__ <br>
-Jarrod Shilts _et al._ , 2022
+Jarrod Shilts _et al._, 2022
 <br>
 <br>
 When reusing any of these datasets or scripts, please cite our paper : [URL](https://www.nature.com/articles/s41586)
@@ -17,7 +17,7 @@ Given the diverse types of analyses included in this larger study, this reposito
 __organized_code_screen_processing__ : raw and processed data from the comprehensive protien-protein interaction screening done using the SAVEXIS technique to discover receptor binding partners. The code covers the processing of screen data and benchmarking. This mostly covers Figure 1 of the paper. <br><br>
 __organized_code_affinity__ : datasets of surface interactions integrated with proteomics expression. The code analyzes these datasets to test hypotheses about interaction abundance and binding kinetics. This mostly covers figure 2 of the paper. <br><br>
 __organized_code_modelling__ : parameter values for the mathematical model of cell-cell association, along with the associated code for evaluating the model. This covers parts of Figures 2 and Figure 4 of the paper. <br><br>
-__organized_code_scRNA_website__ : integrated datasets of single-cell RNAseq and surface protein interaction matrices. The code provides a range of interactive plotting funcitons.  This covers the first part of Figure 3 of the paper.  <br><br>
+__organized_code_scRNA_website__ : integrated datasets of single-cell RNAseq and surface protein interaction matrices. The code provides a range of interactive plotting funcitons.  This covers the first part of Figure 3 of the paper.  <br>
 This particular code base can be explored more conveninently for day-to-day use by accessing our web tool :https://www.sanger.ac.uk/tool/immune-interaction/immune-interaction/  <br><br>
 __organized_code_scRNA_analysis__ : an extension of the folder above that contains additional code covering the middle sections of figure 2. <br><br>
 __organized_code_spatialRNA__ : spatial transcriptomics data from human lymph node provided by 10x Genomics. The code calculates the spatial colocalization of gene pairs. This covers the last portion of Figure 3. <br><br>
