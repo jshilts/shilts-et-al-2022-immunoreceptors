@@ -1,0 +1,177 @@
+Uniprot_L,Uniprot_R,Gene_L,Gene_R,Kd_nM,Method,Ref_csv,Notes
+P41217,Q8TD46,CD200,CD200R1,2500,pub,https://www.ncbi.nlm.nih.gov/m/pubmed/10981966/,
+P16284,P16284,PECAM1,PECAM1,12000,pub,"https://www.ncbi.nlm.nih.gov/pubmed/10425179,https://www.ncbi.nlm.nih.gov/pubmed/26702061",
+P14151,Q14242,SELL,SELPLG,47000,pub,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2431087/,https://www.ncbi.nlm.nih.gov/pubmed/8892633,https://www.ncbi.nlm.nih.gov/pubmed/8896607",sialyation-dependent (6-sulfo SLe^x)
+P14151,O00592,SELL,PODXL,,pub,"https://www.ncbi.nlm.nih.gov/pubmed/19118161/,https://www.ncbi.nlm.nih.gov/pubmed/22814396",sialyation-dependent
+P16109,Q14242,SELP,SELPLG,224,pub,"https://www.ncbi.nlm.nih.gov/pubmed/19118202,https://www.ncbi.nlm.nih.gov/pubmed/9829984,https://www.ncbi.nlm.nih.gov/pubmed/12393589",sialyation-dependent;estimates 224-403; koff:1.4 ± 0.1 s?1
+P06729,P19256,CD2,CD58,10000,pub,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1779959/,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2196039/",estimates 2000-20000
+P29965,P25942,CD40LG,CD40,7,pub,"https://www.ncbi.nlm.nih.gov/pubmed/9030600,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3567247/,https://www.ncbi.nlm.nih.gov/pubmed/26721880",Kd from soluble ecotdomain; differs based on orientation; other estimates as high as 13 uM
+Q92692,Q15762,PVRL2,CD226,310,pub,"https://www.ncbi.nlm.nih.gov/pubmed/15039383,https://www.ncbi.nlm.nih.gov/pubmed/22547693",
+P15151,Q15762,PVR,CD226,230,pub,https://www.ncbi.nlm.nih.gov/pubmed/15039383,estimates 119-230
+P15151,Q495A1,PVR,TIGIT,3,pub,"https://www.ncbi.nlm.nih.gov/pubmed/19011627/,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3325733/,https://www.ncbi.nlm.nih.gov/pubmed/28515320,https://www.ncbi.nlm.nih.gov/pubmed/27978489",other estimates of 3200 and 360 nM
+Q92692,Q495A1,PVRL2,TIGIT,5800,pub,"https://www.ncbi.nlm.nih.gov/pubmed/28515320,https://www.ncbi.nlm.nih.gov/pubmed/27978489",estimates range 3700-11500
+Q92692,Q92692,PVRL2,PVRL2,392,pub,https://www.ncbi.nlm.nih.gov/pubmed/22902367,
+P40200,P15151,CD96,PVR,38,pub,https://www.ncbi.nlm.nih.gov/pubmed/19011627,
+P33681,P10747,CD80,CD28,2900,pub,"https://www.nature.com/articles/ni737,https://www.ncbi.nlm.nih.gov/pubmed/12196291",estimates 2900-4000
+P42081,P10747,CD86,CD28,19000,pub,https://www.ncbi.nlm.nih.gov/pubmed/12196291,
+P33681,P16410,CD80,CTLA4,420,pub,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2196039/,https://www.ncbi.nlm.nih.gov/pubmed/9053440",estimates 200-420
+P42081,P16410,CD86,CTLA4,2600,pub,"https://www.ncbi.nlm.nih.gov/pubmed/12196291,https://www.nature.com/articles/nri3108",
+P01375,P20333,TNF,TNFRSF1B,0.42,pub,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC18461/,https://www.ncbi.nlm.nih.gov/pubmed/26721880",estimates 0.42-0.82
+P29965,P08514,CD40LG,"ITGA2B,ITGB3",30,pub,https://www.ncbi.nlm.nih.gov/pubmed/11875495,koff: 5.77E-4 s-1
+P29965,P08648,CD40LG,"ITGA5,ITGB1",120,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3365732/,koff: 1.84E-3 s-1
+P23510,P43489,TNFSF4,TNFRSF4,1,pub,https://www.ncbi.nlm.nih.gov/pubmed/26721880,
+P32970,P26842,CD70,CD27,0.8,pub,https://www.ncbi.nlm.nih.gov/pubmed/26721880,
+P48023,P25445,FASLG,FAS,1.6,pub,https://www.ncbi.nlm.nih.gov/pubmed/26721880,
+P41273,Q07011,TNFSF9,TNFRSF9,2,pub,https://www.ncbi.nlm.nih.gov/pubmed/26721880,
+O43557,Q92956,TNFSF14,TNFRSF14,0.18,pub,https://www.ncbi.nlm.nih.gov/pubmed/26721880,
+P50591,O00220,TNFSF10,TNFRSF10A,4,pub,https://www.ncbi.nlm.nih.gov/pubmed/26721880,
+P50591,O14798,TNFSF10,TNFRSF10C,3.7,pub,https://www.ncbi.nlm.nih.gov/pubmed/26721880,another estimate kon = 5.43 ± 0.27 × 104 M-1s-1 ; koff = 2.54 ± 0.27 × 10?3 s-1 ; Kd = 4.68 ± 0.35 × 10?8 M
+Q9Y275,Q96RJ3,TNFSF13B,TNFRSF13C,0.13,pub,https://www.ncbi.nlm.nih.gov/pubmed/26721880,
+Q9Y275,Q02223,TNFSF13B,TNFRSF17,0.22,pub,https://www.ncbi.nlm.nih.gov/pubmed/26721880,
+Q9Y275,O14836,TNFSF13B,TNFRSF13B,0.27,pub,"https://www.ncbi.nlm.nih.gov/pubmed/26721880,https://www.ncbi.nlm.nih.gov/pubmed/10956646",estimates 0.1-0.3
+P19320,P13612,VCAM1,"ITGA4,ITGB1",40,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4368157/,
+P19320,P26010,VCAM1,"ITGA4,ITGB7",,pub,https://www.ncbi.nlm.nih.gov/pubmed/7534304,
+P05362,P20701,ICAM1,"ITGAL,ITGB2",500,pub,https://www.ncbi.nlm.nih.gov/pubmed/9780171,estimates 170-500
+P13598,P20701,ICAM2,"ITGAL,ITGB2",600,pub,https://www.ncbi.nlm.nih.gov/pubmed/11353828/,
+P32942,P20701,ICAM3,"ITGAL,ITGB2",25000,pub,"https://www.ncbi.nlm.nih.gov/pubmed/15728350,https://www.ncbi.nlm.nih.gov/pubmed/11353828/",estimates 4300-25000
+Q14773,P20701,ICAM4,"ITGAL,ITGB2",,pub,https://www.ncbi.nlm.nih.gov/pubmed/10846180,
+P05362,P11215,ICAM1,"ITGAM,ITGB2",680,pub,https://www.ncbi.nlm.nih.gov/pubmed/16252253,
+P05362,P20702,ICAM1,"ITGAX,ITGB2",3900,pub,https://www.ncbi.nlm.nih.gov/pubmed/16252253,
+P32942,Q13349,ICAM3,"ITGAD,ITGB2",1900,pub,https://www.ncbi.nlm.nih.gov/pubmed/16239428,
+P19320,Q13349,VCAM1,"ITGAD,ITGB2",8100,pub,https://www.ncbi.nlm.nih.gov/pubmed/16239428,
+Q9NZQ7,P33681,CD274,CD80,1500,pub,"https://www.ncbi.nlm.nih.gov/pubmed/17629517,https://www.ncbi.nlm.nih.gov/pubmed/18585785,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168865/",estimates 7 to 1400-1900
+Q9NZQ7,Q15116,CD274,PDCD1,590,pub,"https://www.ncbi.nlm.nih.gov/pubmed/17629517,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168865/",estimates 10.4 -590
+Q9BQ51,Q15116,PD1L2,PDCD1,11,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168865/,
+Q9BZM4,P26718,ULBP3,KLRK1,4000,pub,"https://www.ncbi.nlm.nih.gov/pubmed/12444134,https://www.ncbi.nlm.nih.gov/pubmed/28559451",
+Q9H3S1,Q9Y4D7,SEMA4A,PLXND1,9,pub,https://www.ncbi.nlm.nih.gov/pubmed/17318185,
+O75326,O60486,SEMA7A,PLXNC1,350,pub,https://www.ncbi.nlm.nih.gov/pubmed/20727575,
+Q10589,P59901,BST2,LILRA4,1000,pub,https://www.ncbi.nlm.nih.gov/pubmed/19564354,
+Q8N6Q3,P16284,CD177,PECAM1,815,pub,https://www.ncbi.nlm.nih.gov/pubmed/17580308,
+Q9BX67,Q9BX67,JAM3,JAM3,9.6,pub,https://www.ncbi.nlm.nih.gov/pubmed/16118203,
+Q9BZW8,P09326,CD244,CD48,4000,pub,"https://www.ncbi.nlm.nih.gov/pubmed/17950006,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2212392/",estimates range 16000 to 4000
+Q13291,Q13291,SLAMF1,SLAMF1,200000,pub,https://www.ncbi.nlm.nih.gov/pubmed/10831600,
+P13747,P26715,"HLA-E,B2M","KLRC1,KLRD1",5000,pub,"https://www.ncbi.nlm.nih.gov/pubmed/15728498,https://www.ncbi.nlm.nih.gov/pubmed/18448674",varies 500-20000 nM depending on polymorphisms
+P13747,P26717,"HLA-E,B2M","KLRC2,KLRD1",28000,pub,https://www.ncbi.nlm.nih.gov/pubmed/15728498,varies 4.3 to over 120 uM depending on HLA peptides and polymorphisms
+P30511,P43630,"HLA-F,B2M",KIR3DL2,118,pub,https://www.ncbi.nlm.nih.gov/pubmed/27455421,koff:5.08 × 10?3 s-1
+P30511,Q14943,"HLA-F,B2M",KIR3DS1,25,pub,https://www.ncbi.nlm.nih.gov/pubmed/27455421,koff: 7.0 × 10?4 s-1
+P30511,P43629,"HLA-F,B2M",KIR3DL1,157,pub,https://www.ncbi.nlm.nih.gov/pubmed/27455421,koff:6.91 × 10?3 s-1
+Q13740,Q13740,ALCAM,ALCAM,42000,pub,https://www.ncbi.nlm.nih.gov/pubmed/15048703,"estimates range 29000-48000, Koff >5.3 s-1, t half 0.1 sec"
+O75144,Q9Y6W8,ICOSLG,ICOS,24,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2759495/,koff:8.9X10^-3 sec-1
+Q9BY67,O95727,CADM1,CRTAM,12500,pub,https://www.ncbi.nlm.nih.gov/pubmed/23871486,koff: 7.84x10^-3 s-1
+P17693,Q8N423,"HLA-G,B2M",LILRB2,4300,pub,"https://www.ncbi.nlm.nih.gov/pubmed/16455647,https://www.ncbi.nlm.nih.gov/pubmed/17056715",
+P17693,Q8NHL6,"HLA-G,B2M",LILRB1,2500,pub,https://www.ncbi.nlm.nih.gov/pubmed/16455647,
+P09603,P07333,CSF1,CSF1R,720,pub,https://www.ncbi.nlm.nih.gov/pubmed/22483114/,"kon = 7.7 × 104s-1M-1, koff = 5.4 × 10?2 s-1"
+P13688,P31997,CEACAM1,CEACAM8,,pub,https://www.ncbi.nlm.nih.gov/pubmed/24743304,
+P13688,P06731,CEACAM1,CEACAM5,,pub,https://www.ncbi.nlm.nih.gov/pubmed/15905509,
+P13688,P40199,CEACAM1,CEACAM6,,pub,ISBN: 9780471701323,
+P13688,P13688,CEACAM1,CEACAM1,7650,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2779236/,ka1 = 0.0890 ± 0.0034 µM?1s?1; kd1 = 0.6806 ± 0.0074 s?1
+Q8NHJ6,Q6GTX8,LAIR1,LILRB4,200000,pub,https://www.ncbi.nlm.nih.gov/pubmed/19283782/,
+P06731,P01732,CEACAM5,CD8A,22,pub,https://www.ncbi.nlm.nih.gov/pubmed/24104458,2.60E+04 M-1s-1 (KON) and 5.60E-04 s-1 (KOFF)
+P06731,P15813,CEACAM5,CD1D,,pub,https://www.ncbi.nlm.nih.gov/pubmed/24104458,
+P30511,Q8NHL6,"HLA-F,B2M",LILRB1,,pub,https://www.ncbi.nlm.nih.gov/pubmed/11169396,
+P30511,Q8N423,"HLA-F,B2M",LILRB2,,pub,https://www.ncbi.nlm.nih.gov/pubmed/11169396,
+Q92854,P21854,SEMA4D,CD72,300,pub,https://www.ncbi.nlm.nih.gov/pubmed/11114375,
+P30203,Q13740,CD6,ALCAM,120,pub,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4533223/,https://www.ncbi.nlm.nih.gov/pubmed/15048703","estimates range 90-1000, Koff ?0.4–0.63?s–1,t half 1.2-1.7 sec"
+Q9Y624,Q9Y624,F11R,F11R,15,pub,"https://www.ncbi.nlm.nih.gov/pubmed/10913139/,https://www.ncbi.nlm.nih.gov/pubmed/12697893/",
+Q9Y624,P20701,F11R,"ITGAL,ITGB2",500,pub,"https://www.ncbi.nlm.nih.gov/pubmed/15528364,https://www.ncbi.nlm.nih.gov/pubmed/11812992",
+Q9BX67,P11215,JAM3,"ITGAM,ITGB2",35,pub,"https://www.ncbi.nlm.nih.gov/pubmed/16118203,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2194005/",
+P07359,P11215,GP1BA,"ITGAM,ITGB2",20000,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2194217/,
+P06734,P11215,FCER2,"ITGAM,ITGB2",,pub,"https://www.ncbi.nlm.nih.gov/pubmed/7621072,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2143337/",little further study
+P06734,P06756,FCER2,"ITGAV,ITGB3",,pub,https://www.ncbi.nlm.nih.gov/pubmed/10037797/,little further study
+P06734,P20702,FCER2,"ITGAX,ITGB2",,pub,https://www.ncbi.nlm.nih.gov/pubmed/7621072,little further study
+P06734,P20023,FCER2,CR2,263,pub,"https://www.ncbi.nlm.nih.gov/pubmed/16785534,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2212946/","estimates range 263-870. koff (1/s):7.9E-2,kon (1/Ms) 2.1E5"
+P04216,P20702,THY1,"ITGAX,ITGB2",1160,pub,https://www.ncbi.nlm.nih.gov/pubmed/15850796,
+P04216,P11215,THY1,"ITGAM,ITGB2",2400,pub,https://www.ncbi.nlm.nih.gov/pubmed/15850796,
+P16284,P28907,PECAM1,CD38,,pub,"https://www.ncbi.nlm.nih.gov/pubmed/9551996,https://www.ncbi.nlm.nih.gov/pubmed/26407101",
+P16150,P05362,SPN,ICAM1,,pub,https://www.ncbi.nlm.nih.gov/pubmed/1683685,
+P16150,Q9BZZ2,SPN,SIGLEC1,,pub,https://www.ncbi.nlm.nih.gov/pubmed/11238599,
+P08575,P22897,PTPRC,MRC1,,pub,"https://www.ncbi.nlm.nih.gov/pubmed/27601670,https://www.ncbi.nlm.nih.gov/pubmed/10575006",glycoform-dependent interaction
+Q7Z6A9,Q92956,BTLA,TNFRSF14,290,pub,https://www.ncbi.nlm.nih.gov/pubmed/21959263,
+Q96E93,P12830,KLRG1,CDH1,150000,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3030123/,
+Q08722,P78324,CD47,SIRPA,2000,pub,https://www.ncbi.nlm.nih.gov/pubmed/10964914,https://www.ncbi.nlm.nih.gov/pubmed/15294972
+Q08722,Q9P1W8,CD47,SIRPG,23000,pub,https://www.ncbi.nlm.nih.gov/pubmed/15294972,
+P15813,Q8N423,CD1d,LILRB2,,pub,https://www.ncbi.nlm.nih.gov/pubmed/19124746/,
+Q9UIB8,Q9UIB8,CD84,CD84,,pub,https://www.ncbi.nlm.nih.gov/pubmed/11564780,
+Q9NQ25,Q9NQ25,SLAMF7,SLAMF7,,pub,https://www.ncbi.nlm.nih.gov/pubmed/12213321,
+Q96DU3,Q96DU3,SLAMF6,SLAMF6,19700,pub,"https://www.ncbi.nlm.nih.gov/pubmed/15162436,https://www.ncbi.nlm.nih.gov/pubmed/17045824",bivalent interaction model
+Q9HBG7,Q9HBG7,LY9,LY9,,pub,https://www.ncbi.nlm.nih.gov/pubmed/15905546,
+Q9P0V8,Q9P0V8,SLAMF8,SLAMF8,,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4370648/,
+P32971,P28908,TNFL8,TNFRSF8,5,pub,"https://www.ncbi.nlm.nih.gov/pubmed/11754357,https://www.ncbi.nlm.nih.gov/pubmed/26721880",estimates 5-19
+P15151,Q9NQS3,PVR,NECT3,71,pub,"https://www.ncbi.nlm.nih.gov/pubmed/19011627,https://www.ncbi.nlm.nih.gov/pubmed/12740392/",estiamtes 17-71
+Q495A1,Q9NQS3,TIGIT,NECT3,39,pub,https://www.ncbi.nlm.nih.gov/pubmed/19011627,
+Q92692,Q9NQS3,PVRL2,NECT3,14,pub,"https://www.ncbi.nlm.nih.gov/pubmed/19011627,https://www.ncbi.nlm.nih.gov/pubmed/12740392/",estimates 14-360
+P57087,Q9BX67,JAM2,JAM3,,pub,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1237098/,https://www.ncbi.nlm.nih.gov/pubmed/11590146",
+P57087,P13612,JAM2,"ITGA4,ITGB1",,pub,https://www.ncbi.nlm.nih.gov/pubmed/12070135/,
+P25063,P16109,CD24,SELP,,pub,https://www.ncbi.nlm.nih.gov/pubmed/9129046,
+P28906,P16109,CD34,SELP,,pub,https://www.ncbi.nlm.nih.gov/pubmed/18606703,
+P28906,P14151,CD34,SELL,,pub,"https://www.ncbi.nlm.nih.gov/pubmed/7692600,https://www.ncbi.nlm.nih.gov/pubmed/8977216",
+O95971,Q92956,CD160,TNFRSF14,340,pub,https://www.ncbi.nlm.nih.gov/pubmed/21959263,
+O75888,O14836,TNFSF13,TNFRSF13B,0.91,pub,"https://www.ncbi.nlm.nih.gov/pubmed/10898980,https://www.ncbi.nlm.nih.gov/pubmed/12370363",
+O75888,Q02223,TNFSF13,TNFRSF17,0.5,pub,https://www.ncbi.nlm.nih.gov/pubmed/10898980,
+O14788,Q9Y6Q6,TNFSF11,TNR11,0.1,pub,"https://www.ncbi.nlm.nih.gov/pubmed/16547002,https://www.ncbi.nlm.nih.gov/pubmed/19416721,https://www.ncbi.nlm.nih.gov/pubmed/20483727",
+P01375,P19438,TNF,TNR1A,,pub,https://www.ncbi.nlm.nih.gov/pubmed/16547002,
+Q9BY67,Q9BY67,CADM1,CADM1,114.4,pub,"https://www.ncbi.nlm.nih.gov/pubmed/24503895,https://www.ncbi.nlm.nih.gov/pubmed/30131958",kon:6.4×104 koff:7.3×10?3
+Q15223,Q15223,PVRL1,PVRL1,17500,pub,https://www.ncbi.nlm.nih.gov/pubmed/22902367,
+Q15223,Q9NQS3,PVRL1,NECT3,2.3,pub,https://www.ncbi.nlm.nih.gov/pubmed/12740392/,
+P48960,P08174,CD97,CD55,86000,pub,https://www.ncbi.nlm.nih.gov/pubmed/11297558,koff: 0.6 s-1
+P78504,P15529,JAG1,CD46,8000,pub,https://www.ncbi.nlm.nih.gov/pubmed/23086448,
+P12830,P17301,CDH1,"ITGA2,ITGB1",,pub,https://www.ncbi.nlm.nih.gov/pubmed/12392763,
+Q9NNX6,P32942,CD209,ICAM3,1100,pub,https://www.ncbi.nlm.nih.gov/pubmed/15795245,
+Q9H2X3,P32942,CLC4M,ICAM3,15000,pub,https://www.ncbi.nlm.nih.gov/pubmed/15795245,
+P32004,P06756,L1CAM,"ITGAV,ITGB3",,pub,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2132622/,https://www.ncbi.nlm.nih.gov/pubmed/8636223,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5190064/",
+P32004,P08648,L1CAM,"ITGA5,ITGB1",,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2120661/,little further study
+P32004,P32004,L1CAM,L1CAM,116,pub,https://www.ncbi.nlm.nih.gov/pubmed/18701456/,koff: 0.00997 s-1; kon: 85700 Ms
+P13591,P11362,NCAM1,FGFR1,9970,pub,https://www.ncbi.nlm.nih.gov/pubmed/12791257,"kon 889 ± 332 M?1 s?1, koff 5.56 ± 0.07 × 10?3 s?1"
+P31358,Q96LC7,CD52,SIGLEC10,,pub,https://www.ncbi.nlm.nih.gov/pubmed/23685786,
+P13591,P13591,NCAM1,NCAM1,55000,pub,https://www.ncbi.nlm.nih.gov/pubmed/9092558,
+P16070,P16581,CD44,LYAM2,663,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4571854/,"kon: 226 ± 28 m?1 s?1, koff: 1.5 × 10?4 ± 0.1 × 10?4 s?1, KD with 50 mM NaCl is 137 nM"
+Q14242,P16581,SELPLG,LYAM2,1150,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4571854/,"kon: 118 165 ± 13 m?1 s?1, koff: 1.9 × 10?4 ± 0.2 × 10?4, KD with 50 mM NaCl is 178 nM"
+Q92896,P16581,GLG1,LYAM2,62000,pub,https://www.ncbi.nlm.nih.gov/pubmed/11404363/,"koff: 4.6 s(-1), kon: 7.4 x 10(4) m(-1) s(-1)"
+P13688,Q9NNX6,CEACAM1,CD209,,pub,"https://www.ncbi.nlm.nih.gov/pubmed/16282604,https://www.ncbi.nlm.nih.gov/pubmed/16246332",sialyation-dependent
+P13688,P16581,CEACAM1,LYAM2,,pub,https://www.ncbi.nlm.nih.gov/pubmed/1378450,sialyation-dependent
+P40199,P31997,CEACAM6,CEACAM8,,pub,https://www.ncbi.nlm.nih.gov/pubmed/11590190,
+P40199,P40199,CEACAM6,CEACAM6,,pub,https://www.ncbi.nlm.nih.gov/pubmed/11590190,
+P05067,P04233,APP,CD74,,pub,https://www.ncbi.nlm.nih.gov/pubmed/19849849,claim interaction domain localized to last 100 aa or first 20 aa
+Q03405,P13612,PLAUR,"ITGA4,ITGB1",,pub,https://www.ncbi.nlm.nih.gov/pubmed/11053440,possibly a complex in cis
+Q03405,P06756,PLAUR,"ITGAV,ITGB3",,pub,"https://www.ncbi.nlm.nih.gov/pubmed/11053440,https://www.ncbi.nlm.nih.gov/pubmed/15863511",possibly a complex in cis
+P04216,P06756,THY1,"ITGAV,ITGB3",,pub,"https://www.ncbi.nlm.nih.gov/pubmed/29212879,https://www.ncbi.nlm.nih.gov/pubmed/18346467/,https://www.ncbi.nlm.nih.gov/pubmed/11470407/,https://www.ncbi.nlm.nih.gov/pubmed/15897908/","koff = 0.051 ± 0.003 s–1, mean rupture force 24 pN, free energy activation 5.54 ± 0.47 kBT"
+O15031,Q92854,PLXNB2,SEMA4D,,pub,https://www.ncbi.nlm.nih.gov/pubmed/22902232,biphasic SPR preventing quantification
+P12830,P12830,CDH1,CDH1,96500,pub,"https://www.ncbi.nlm.nih.gov/pubmed/25253890,https://www.ncbi.nlm.nih.gov/pubmed/19553217",another estimate of 156 uM
+Q02413,Q08554,DSG1,DSC1,3550,pub,https://www.ncbi.nlm.nih.gov/pubmed/27298358,
+Q02413,Q02487,DSG1,DSC2,21900,pub,https://www.ncbi.nlm.nih.gov/pubmed/27298358,
+Q02413,Q14574,DSG1,DSC3,18100,pub,https://www.ncbi.nlm.nih.gov/pubmed/27298358,
+Q14126,Q08554,DSG2,DSC1,11520,pub,https://www.ncbi.nlm.nih.gov/pubmed/27298358,
+Q14126,Q02487,DSG2,DSC2,29000,pub,https://www.ncbi.nlm.nih.gov/pubmed/27298358,residues for binding mapped by SPR
+Q14126,Q14574,DSG2,DSC3,34400,pub,https://www.ncbi.nlm.nih.gov/pubmed/27298358,
+P05067,Q7Z4F1,APP,LRP10,,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3520120/,extracellular domains but mostly tested by IP
+Q96AP7,Q96AP7,ESAM,ESAM,,pub,https://www.ncbi.nlm.nih.gov/pubmed/11279107,by cell aggregation assay
+P50591,O14763,TNFSF10,TR10B,2,pub,"https://www.ncbi.nlm.nih.gov/pubmed/10549288,https://www.ncbi.nlm.nih.gov/pubmed/10770955",
+O43508,Q9NP84,TNFSF12,TNR12,1.3,pub,"https://www.ncbi.nlm.nih.gov/pubmed/16526941,https://www.ncbi.nlm.nih.gov/pubmed/23667509,https://www.ncbi.nlm.nih.gov/pubmed/20385556/",estimates 0.8 - 2.4 nM
+Q9C0C4,O15031,SEMA4C,PLXNB2,0.95,pub,"https://www.ncbi.nlm.nih.gov/pubmed/17554007,https://www.ncbi.nlm.nih.gov/pubmed/21035938",
+P50591,Q9UBN6,TNFSF10,TR10D,62,pub,"https://www.ncbi.nlm.nih.gov/pubmed/10770955,https://www.ncbi.nlm.nih.gov/pubmed/15823571/,https://www.ncbi.nlm.nih.gov/pubmed/9430226",koff = 4.38 ± 0.23 × 10?3 sec-1 ; kon = 7.04 ± 0.17 × 104 M-1sec-1
+P49771,P36888,FLT3LG,FLT3,8.7,pub,https://www.ncbi.nlm.nih.gov/pubmed/21389326,
+P98172,P54762,EFNB1,EPHB1,0.72,pub,"https://www.ncbi.nlm.nih.gov/pubmed/8918835,https://www.ncbi.nlm.nih.gov/pubmed/7973638",estimates Kd 0.3-1.16 nM
+P98172,P29323,EFNB1,EPHB2,0.66,pub,"https://www.ncbi.nlm.nih.gov/pubmed/8918835,https://www.ncbi.nlm.nih.gov/pubmed/9233799,https://www.ncbi.nlm.nih.gov/pubmed/8755474",estimates Kd 0.42-0.81 nM
+Q9UHP7,Q12918,CLEC2D,KLRB1,48000,pub,"https://www.ncbi.nlm.nih.gov/pubmed/21572041/,https://www.ncbi.nlm.nih.gov/pubmed/16339513,",
+Q92478,Q9NZS2,CLEC2B,KLRF1,4100,pub,https://www.ncbi.nlm.nih.gov/pubmed/17057721/,other estimate Kd 2.3 uM ; kon 1.6 × 104 M?1s?1 ; koff 6.7 × 10?2 s?1
+P05067,O75509,APP,TNFRSF21,,pub,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2677572/,
+P18827,O75509,SDC1,TNFRSF21,,pub,https://www.ncbi.nlm.nih.gov/pubmed/28045014,
+Q9NPH3,P10586,IL1RAP,PTPRF,19000,JS,,
+P98172,P54764,EFNB1,EPHA4,25000,JS,,
+Q12860,P43121,CNTN1,MCAM,7400,JS,,
+P78504,Q6EMK4,JAG1,VASN,1900,JS,,
+P98172,P29317,EFNB1,EPHA2,41000,JS,,
+Q12860,Q92823,CNTN1,NRCAM,4500,JS,,
+Q6UXB8,O75509,PI16,TNFRSF21,18000,JS,,
+P78380,Q8IW52,OLR1,SLITRK4,900,JS,,
+Q06481,P01833,APLP2,PIGR,800,JS,,
+Q9H7M9,P30511,C10orf54,HLA-F-B2M,1600,JS,,
+P19022,P06734,CDH2,FCER2,10000,JS,,
+Q06481,Q9HCM2,APLP2,PLX4,2600,JS,,
+P05067,Q9HCM2,APP,PLX4,16000,JS,,
+P22455,P34741,FGFR4,SDC2,1700,JS,,
+Q9ULL4,Q92854,PLXNB3,SEMA4D,800,JS,,
+O00533,P32004,CHL1,L1CAM,1800,JS,,
+Q9H7M9,P13747,C10orf54,HLA-E-B2M,7100,JS,,
+Q8N109,P15151,KIR2DL5A,PVR,12000,JS,,
+P22455,Q03167,FGFR4,TGFBR3,1600,JS,,
