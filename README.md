@@ -1,7 +1,7 @@
 # Data files and code accompanying Shilts _et al._, 2022
 
 This repository contains all of the data files and code needed to reproduce the analyses published in the paper <br>
-__A physical wiring diagram of the human immune system__ <br>
+__A physical wiring diagram for the human immune system__ <br>
 Jarrod Shilts _et al._, 2022
 <br>
 <br>
