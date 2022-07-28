@@ -5,13 +5,13 @@ __A physical wiring diagram for the human immune system__ <br>
 Jarrod Shilts _et al._, 2022
 <br>
 <br>
-When reusing any of these datasets or scripts, please cite our paper : [URL](https://www.nature.com/articles/s41586)
+When reusing any of these datasets or scripts, please cite our paper : [https://www.nature.com/articles/s41586-022-05028-x](https://www.nature.com/articles/s41586-022-05028-x)
 <br>
 
 ## What is included here
 
 Each folder contains both the raw and processed data files that were used in this study, along with the custom scripts that run the paper's calculations and plot figures.
-For most of the data sets that are most likely to be useful to re-use by others, we have already provided these as Supplementary Tables, which can be accessed at the [journal's website](https://www.nature.com/articles/s41586#Extended). Therefore these files are provided predominantly for more advanced projects that aim to build off our study, as well as to ensure reproduciblity and transparency. 
+For most of the data sets that are most likely to be useful to re-use by others, we have already provided these as Supplementary Tables, which can be accessed at the [journal's website](https://www.nature.com/articles/s41586-022-05028-x#Extended). Therefore these files are provided predominantly for more advanced projects that aim to build off our study, as well as to ensure reproduciblity and transparency. 
 <br><br><br>
 Given the diverse types of analyses included in this larger study, the repository is divided into folders that each cover a different section of the paper: <br><br>
 __organized_code_screen_processing__ : raw and processed data from the comprehensive protien-protein interaction screening done using the SAVEXIS technique to discover receptor binding partners. The code covers the processing of screen data and benchmarking. This mostly covers Figure 1 of the paper. <br><br>
